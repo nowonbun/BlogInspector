@@ -1,4 +1,4 @@
 # BlogInspector
-need install requests
+# need install requests
 
 pip install requests
